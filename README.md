@@ -12,6 +12,7 @@ Reference output-
 2. Create Parmanent Employee
 0. Exit
 Enter Your Choice :2
+
 Enter Employee ID :45
 Enter Employee Name :dik
 Enter Monthly Salary :70000
